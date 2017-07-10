@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/yii
+/index.php
+/composer.lock
+/config/db.php
+/vendor/
+/runtime/
